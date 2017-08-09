@@ -19,9 +19,9 @@
   },
   "main": "paper-toast.html",
   "dependencies": {
-    "iron-a11y-announcer": "PolymerElements/iron-a11y-announcer#1 - 2",
-    "iron-overlay-behavior": "PolymerElements/iron-overlay-behavior#1 - 2",
-    "iron-fit-behavior": "PolymerElements/iron-fit-behavior#1 - 2",
+    "iron-a11y-announcer": "tjmonsi/iron-a11y-announcer#2-mini",
+    "iron-overlay-behavior": "tjmonsi/iron-overlay-behavior#2-mini",
+    "iron-fit-behavior": "tjmonsi/iron-fit-behavior#2-mini",
     "polymer": "Polymer/polymer#1.9 - 2"
   },
   "devDependencies": {
